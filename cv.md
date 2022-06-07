@@ -1,17 +1,21 @@
-# HRYHARAN ULADZIMIR
-## Contacts
-* **Location**: Minsk, Belarus
-* **Phone**: +375-25-916-05-32
-* **Discord**: dispersion#8046
-* **Email**: loki6003@gmail.com
-* **Github**: [dispersionn](https://github.com/dispersionn)
-## About me
+# __HRYHARAN ULADZIMIR__
+
+## __Contacts__
+- __Location__: Minsk, Belarus
+- __Phone__: +375-25-916-05-32
+- __Discord__: dispersion#8046
+- __Email__: loki6003@gmail.com
+- __Github__: [dispersionn](https://github.com/dispersionn
+ 
+## __About me__
 My goal is to successfully complete this course and then get a job as a junior javascript developer. I quickly learn new information, find a common language with people and able to work in a team.
-## Skills
-* HTML(Basic)
-* CSS(Basic)
-* Git
-## Code example
+
+## __Skills__
+- HTML(Basic)
+- CSS(Basic)
+- Git
+ 
+## __Code example__
 ```
 <!DOCTYPE html>
  <html>
@@ -26,12 +30,14 @@ My goal is to successfully complete this course and then get a job as a junior j
  </html>
  ```
  
- ## Experience
+ ## __Experience__
  I don't have yet 
- ## Education
- * **University**: Belarusian State University, Department of biology, biochemist.
- * **Courses**: 
+ 
+ ## __Education__
+ - __University__: Belarusian State University, Department of biology, biochemist.
+ - __Courses__: 
      + [Code-basics](https://ru.code-basics.com/)
-     + [Stepik](https://welcome.stepik.org/ru) 
+     + [Stepik](https://welcome.stepik.org/ru)
+  
  ## English
- **B2**(studied in school and University)
+ __B2__(studied in school and University)
