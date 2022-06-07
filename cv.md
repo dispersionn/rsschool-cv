@@ -30,14 +30,14 @@ My goal is to successfully complete this course and then get a job as a junior j
  </html>
  ```
  
- ## __Experience__
+## __Experience__
  I don't have yet 
  
- ## __Education__
+## __Education__
  - __University__: Belarusian State University, Department of biology, biochemist.
  - __Courses__: 
      + [Code-basics](https://ru.code-basics.com/)
      + [Stepik](https://welcome.stepik.org/ru)
   
- ## __English__
+## __English__
  __B2__(studied in school and University)
