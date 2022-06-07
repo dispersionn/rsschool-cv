@@ -5,7 +5,7 @@
 - __Phone__: +375-25-916-05-32
 - __Discord__: dispersion#8046
 - __Email__: loki6003@gmail.com
-- __Github__: [dispersionn](https://github.com/dispersionn
+- __Github__: [dispersionn](https://github.com/dispersionn)
  
 ## __About me__
 My goal is to successfully complete this course and then get a job as a junior javascript developer. I quickly learn new information, find a common language with people and able to work in a team.
