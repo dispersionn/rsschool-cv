@@ -39,5 +39,5 @@ My goal is to successfully complete this course and then get a job as a junior j
      + [Code-basics](https://ru.code-basics.com/)
      + [Stepik](https://welcome.stepik.org/ru)
   
- ## English
+ ## __English__
  __B2__(studied in school and University)
