@@ -17,17 +17,8 @@ My goal is to successfully complete this course and then get a job as a junior j
  
 ## __Code example__
 ```
-<!DOCTYPE html>
- <html>
-   <head>
-    <meta charset="utf-8">
-   </head>
-
-   <body>
-    <h1> Заголовок </h1>
-    <p> Абзац </p>
-   </body>
- </html>
+var test = "Hello";
+console.log(test);
  ```
  
 ## __Experience__
